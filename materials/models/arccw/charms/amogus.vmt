@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\arccw\charms\amogus"
+	// $envmap" "env_cubemap"
+}

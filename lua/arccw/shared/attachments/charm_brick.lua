@@ -4,9 +4,9 @@ att.Description = "Whether you're building bridges to bring your friends closer,
 
 att.Desc_Pros = {
 }
-att.Desc_Info = {
-    "Please don't go,",
-    "I need you so."
+att.Desc_Neutrals = {
+    "info.charm_brick",
+    "info.charm_brick2"
 }
 att.Desc_Cons = {
 }

@@ -5,8 +5,8 @@ att.Description = "Lamp oil, rope, bombs - you want it, it's yours, my friend, a
 att.Desc_Pros = {
 }
 att.Desc_Cons = {
-    "Sorry, Link. I can't give credit.",
-    "Come back when you're a little- mmmm... - richer."
+    "con.charm_lamp",
+    "con.charm_lamp2"
 }
 att.AutoStats = true
 att.Slot = "charm"
